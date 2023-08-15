@@ -1,6 +1,4 @@
-<<<<<<< HEAD
- 
-=======
+
  <h1><em>Html</em></h1>
  
 <h3><bem>Semântica Html</em></h3>
@@ -122,12 +120,3 @@ Exemplo:
 
 ![image](https://github.com/Tuanesfreitas/aula.front-end/assets/136396041/c45f0bf8-7ce6-4fff-a62e-07e0df0d2e66)
 
-
-
-
-
-
-
-
-
->>>>>>> 6d1fa3a49b899bb6131cd831d7a737a8485f7bdc
