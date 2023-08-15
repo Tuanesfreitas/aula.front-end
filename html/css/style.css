@@ -1,0 +1,57 @@
+.sobreUm {
+    color: #EEE;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+.titulo {
+    color: rgb(215, 106, 28);
+    text-align: center;
+    font-size: 25px;
+    font-weight: 10px;
+    text-transform: none;
+}
+
+.apresentacao {
+    color: rgb(193, 124, 28);
+    font-size:15px;
+}
+
+#redes {}
+
+a {
+    text-decoration: none;
+    color: rgb(193, 124, 28);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+
+}
+
+a:hover {
+   box-shadow:5px 5px 5px #666565;
+}
+
+body {
+    background:#4948487d;
+}
+
+.fotoperfil {
+    border-radius: 10px;
+    transition: 0.5s;
+}
+
+.fotoperfil:hover {
+    box-shadow: 3px 3px 3px rgba(96, 96, 96, 0.584);
+}
+
+.gif {
+    border-radius: 10px;
+}
+
+.button {
+    padding: 10px 20px;
+    background:rgba(0, 128, 0, 0.5);
+    color: white;
+    border-radius: 5px;
+
+}
+
