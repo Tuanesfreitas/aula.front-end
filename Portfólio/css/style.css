@@ -1,3 +1,15 @@
+.menu a{
+    background:#7fffd4;
+    padding: 10px 20px;
+    border-radius: 30px;
+    font-weight:10px;
+
+}
+
+
+
+
+
 .sobreUm {
     color: #EEE;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
@@ -14,6 +26,8 @@
 .apresentacao {
     color: rgb(193, 124, 28);
     font-size:15px;
+    position: relative;
+    left:-5px;
 }
 
 #redes {}
@@ -37,6 +51,12 @@ body {
 .fotoperfil {
     border-radius: 10px;
     transition: 0.5s;
+    max-width: 150px;
+    max-height:20%;
+    width:auto;
+    left:auto;
+    
+    
 }
 
 .fotoperfil:hover {
